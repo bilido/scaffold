@@ -1,4 +1,4 @@
-name: Python Scaffold test with Github Actions
+name: Python 3.8 Scaffold test with Github Actions
 on: [push]
 jobs:
   build:
